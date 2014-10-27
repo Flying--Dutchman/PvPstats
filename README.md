@@ -4,7 +4,9 @@ PvPstats
 
 ## Introduction
 
-All credits goes to ShinDarth for creating this great piece of software!
+All credits goes to ShinDarth for creating this great piece of software! https://github.com/ShinDarth/
+=======
+
 PvPstats is an utility for **TrinityCore** and **CMaNGOS** that allows to store and display data about **Battleground scores**. It consists in a core modification and a web application written in **PHP**. It's released under the [GNU GPL v3 License](https://github.com/ShinDarth/PvPstats/blob/master/LICENSE).
 
 Each time a Battleground ends, PvPstats stores in the database all Battlegrounds:
