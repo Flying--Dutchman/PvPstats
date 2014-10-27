@@ -2,10 +2,9 @@ PvPstats
 ========
 # ![logo](https://raw.githubusercontent.com/ShinDarth/PvPstats/master/logo/PvPstats.png)
 
-## Introduction
+## All credits goes to ShinDarth for creating this great piece of software! https://github.com/ShinDarth/
 
-All credits goes to ShinDarth for creating this great piece of software! https://github.com/ShinDarth/
-=======
+## Introduction
 
 PvPstats is an utility for **TrinityCore** and **CMaNGOS** that allows to store and display data about **Battleground scores**. It consists in a core modification and a web application written in **PHP**. It's released under the [GNU GPL v3 License](https://github.com/ShinDarth/PvPstats/blob/master/LICENSE).
 
