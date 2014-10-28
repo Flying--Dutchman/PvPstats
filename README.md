@@ -4,6 +4,8 @@ PvPstats
 
 ## All credits goes to ShinDarth for creating this great piece of software! https://github.com/ShinDarth/
 
+In this fork, I will try to make PvPStats a Joomla Modul which can be implemented everywhere on your site without the need of iframes.
+
 ## Introduction
 
 PvPstats is an utility for **TrinityCore** and **CMaNGOS** that allows to store and display data about **Battleground scores**. It consists in a core modification and a web application written in **PHP**. It's released under the [GNU GPL v3 License](https://github.com/ShinDarth/PvPstats/blob/master/LICENSE).
